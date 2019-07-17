@@ -1,0 +1,4 @@
+torrent_parser==0.3.0
+tqdm==4.32.2
+argparse==1.4.0
+pathlib==1.0.1
